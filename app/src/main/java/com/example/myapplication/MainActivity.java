@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
 
         tvDisplay = findViewById(R.id.tvDisplay);
 
-        // One listener shared by ALL buttons
         View.OnClickListener listener = v -> onButtonClick(((Button) v).getText().toString());
 
         int[] ids = {
