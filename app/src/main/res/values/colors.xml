@@ -2,4 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="calc_display_bg">#3A3A3A</color>
+    <color name="calc_display_text">#FFFFFF</color>
+    <color name="calc_operation_text">#B0B0B0</color>
+    <color name="calc_row_bg">#4573C1FF</color>
+    <color name="calc_digit">#C4C9CE</color>
+    <color name="calc_function">#C9B030</color>
+    <color name="calc_backspace">#D0102A</color>
+    <color name="calc_scientific">#26A69A</color>
 </resources>
